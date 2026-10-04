@@ -52,6 +52,13 @@ a visualization. **Merged PRs get exclusive 169pi swag. 🎁**
 
 <!-- ENTRIES:START -->
 ### @neeyati2809 — <hello world>
+      .-""""-.
+     / -   -  \
+    |  .-. .- |
+    |  \o| |o (
+    \     ^    \
+     '.  )--'  /
+jgs    '-...-'`
 
 <!-- Your representation goes here: SVG, code, ASCII, diagram, whatever. -->
 
